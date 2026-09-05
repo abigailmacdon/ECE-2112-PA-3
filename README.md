@@ -6,12 +6,17 @@ This repository contains the content of the *Programming Assignment 2* for the c
 It includes three Python problems based on **Module 3 - Pandas** which are the following:
 
   **A. POSITIONAL AND LABEL-BASED SLICING**
+       a.1.  
   
   **B. MODEL LOOKUP**
   
   **C. MULTI-MODEL SUBSETTING**
 
 # **A. POSITIONAL AND LABEL-BASED SLICING**
+
+# **A. MODEL LOOKUP**
+
+# **A. MULTI-MODEL SUBSETTING**
 
 
 ***Thank you for reading!***
