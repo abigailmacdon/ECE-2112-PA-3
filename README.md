@@ -11,9 +11,13 @@ It includes three Python problems based on **Module 3 - Pandas** which are the f
 
   **C. MULTI-MODEL SUBSETTING**
 
+  Using the
+
 # **A. POSITIONAL AND LABEL-BASED SLICING**
  
        a.1. Display the shape and complete list of column names of cars
+
+       - '
        
        a.2. Using positional slicing, create cars 6 to 10 containing rows 6 through 10 of the dataset, where the first data row is row 1.
        
@@ -34,7 +38,7 @@ Lotus Europa, and Ferrari Dino.
 
 ***Thank you for reading!***
 
-To see the detailed and main python program for Program Assignment 2, please click this link: # **link** and download. Open on Jupyter Notebook or Colab Notebooks, then run all the cells.
+To see the detailed and main python program for Program Assignment 3, please click this link: # **link** and download. Open on Jupyter Notebook or Colab Notebooks, then run all the cells.
 
 **README file Version History:**
 
