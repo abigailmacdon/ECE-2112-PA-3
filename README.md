@@ -11,13 +11,26 @@ It includes three Python problems based on **Module 3 - Pandas** which are the f
 
   **C. MULTI-MODEL SUBSETTING**
 
-  Using the
+  Using the given CSV file named "cars" to load and create a DataFrame. Here is the link for the "cars.csv": https://github.com/abigailmacdon/ECE-2112-PA-3/blob/main/cars.csv.
+
+To load the file this code is needed:
+
+```python
+import pandas as pd
+
+cars = pd.read_csv('cars.csv')
+cars
+```
+
+• `import pandas as pd` - This imports the Pandas library and uses "pd" as a shorter term when coding.
+
+• `pd.read_csv()` - reads the csv files uploaded to make it the DataFrame.
 
 # **A. POSITIONAL AND LABEL-BASED SLICING**
  
        a.1. Display the shape and complete list of column names of cars
 
-       - '
+       • '
        
        a.2. Using positional slicing, create cars 6 to 10 containing rows 6 through 10 of the dataset, where the first data row is row 1.
        
