@@ -72,7 +72,7 @@ selected_cars
 
 ***Thank you for reading!***
 
-To see the detailed and main python program for Program Assignment 3, please click this link: # **(https://github.com/abigailmacdon/ECE-2112-PA-3/blob/main/Programming_Assignment_3.ipynb)** and download. Open on Jupyter Notebook or Colab Notebooks, then run all the cells.
+To see the detailed and main python program for Program Assignment 3, please click this link: **https://github.com/abigailmacdon/ECE-2112-PA-3/blob/main/Programming_Assignment_3.ipynb** and download. Open on Jupyter Notebook or Colab Notebooks, then run all the cells.
 
 **README file Version History:**
 
