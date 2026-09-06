@@ -1,4 +1,4 @@
-# **ECE-2112-PA-2**
+# **ECE-2112-PA-3**
 **Made by: Abigail T. Macdon | 2ECE-B**
 
 This repository contains the content of the *Programming Assignment 2* for the course subject **"Advanced Computer Programming and Algorithms"** for the First Semester of A.Y. 2026-2027
