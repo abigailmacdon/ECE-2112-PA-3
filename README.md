@@ -28,28 +28,28 @@ cars
 
 # **A. POSITIONAL AND LABEL-BASED SLICING**
  
-   a.1. Display the shape and complete list of column names of cars
+   ***a.1. Display the shape and complete list of column names of cars***
     
    • `cars.shape` - Shows the shape of the table which are the total numbers of rows and columns.
 
    • `.columns` - Displays only the columns name labels of the DataFrame.
      
-   a.2. Using positional slicing, create cars 6 to 10 containing rows 6 through 10 of the datasets, where the first data row is row 1.
+   ***a.2. Using positional slicing, create cars 6 to 10 containing rows 6 through 10 of the datasets, where the first data row is row 1.***
    
    • `.iloc[5:10]` - Specifically locate for rows 6 to 10 starting from the number one index in python which is 0, so starting from index 6 (row 5) and ending with index 10 (row 9). In this case, the code is built `5:10` because in slicing the last index number is not included. 
    
-   a.3. From cars 6 to 10, display only the columns Model, mpg, cyl, hp, and gear, in that order.
+   ***a.3. From cars 6 to 10, display only the columns Model, mpg, cyl, hp, and gear, in that order.***
 
    • `cars_6_to_10[['Model', 'mpg', 'cyl', 'hp', 'gear']]` - Illustrates only the selected column labels.
   
 # **B. MODEL LOOKUP**
 Using Boolean indexing on the Model column to answer both requests.
 
-   b.1. Display the complete row for Toyota Corolla and storing the result to "Toyota".
+   ***b.1. Display the complete row for Toyota Corolla and storing the result to "Toyota".***
 
    • `Toyota = cars.loc[cars['Model'] == 'Toyota Corolla']` - Locates and shows only the row for Toyota Corolla while storing it in the named `Toyota`.
 
-   b.2. Display the selected row for Pontiac Firebird and storing the result to "Pontiac".
+   ***b.2. Display the selected row for Pontiac Firebird and storing the result to "Pontiac".***
 
    • `Pontiac = cars.loc[cars['Model'] == 'Pontiac Firebird']` - Locates and shows only the row for Pontiac Firebird while storing it in the named `Pontiac`.
 
